@@ -1,1 +1,1 @@
-Rename Folder to mods and copy and paste in your %appdata%.minecraft folder
+Change Folder Name to mods and copy and paste Folder into C:\Users\yourusername\AppData\Roaming.minecraft
